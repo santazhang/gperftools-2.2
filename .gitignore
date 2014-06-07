@@ -9,6 +9,9 @@
 /Makefile
 /config.status
 /debugallocation_test.sh
+/heap-checker-death_unittest.sh
+/heap-checker_debug_unittest.sh
+/heap-checker_unittest.sh
 /heap-profiler_debug_unittest.sh
 /heap-profiler_unittest.sh
 /libtool
