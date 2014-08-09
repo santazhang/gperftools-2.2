@@ -21,4 +21,5 @@
 /src/config.h
 /src/gperftools/tcmalloc.h
 /src/stamp-h1
+/src/windows/gperftools/tcmalloc.h
 /tcmalloc_unittest.sh
